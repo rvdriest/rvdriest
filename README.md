@@ -1,15 +1,9 @@
 # I'm Richard, a full-stack developer and student👨‍💻  
   
 
-- 🔭 I’m currently working on [AutoAtlas](https://autoatlas.nl)  
-  
-
-- 🌱 I’m currently learning Docker and mobile development  
-  
-
+- 🔭 I’m currently working at [AutoAtlas](https://autoatlas.nl)  
+- 🌱 I’m currently learning Go and Docker  
 - ⚡ Fun fact: I use tabs over spaces😏  
-  
-
 - ⚽ I'm also really into football and tennis  
   
 
